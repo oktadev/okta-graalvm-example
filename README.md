@@ -5,10 +5,10 @@ This example shows how to use GraalVM to turn a Java application into a native b
 Please read [Watch GraalVM Turn Your Java Into Binaries][blog-url] for a tutorial that shows you how to build this application.
 
 **Prerequisites:** 
-
 * [GraalVM](https://www.graalvm.org/downloads/)
 * [Maven](https://maven.apache.org/download.cgi)
 
+**Table of Contents**
 * [Getting Started](#getting-started)
 * [Help](#help)
 * [Links](#links)
