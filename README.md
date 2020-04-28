@@ -20,7 +20,7 @@ This repository contains two examples (`jvm` and `javascript`), you can build ea
 
 ```bash
 git clone https://github.com/oktadeveloper/okta-graalvm-example.git
-cd jvm
+cd jdk
 mvn package
 ```
 
